@@ -1,0 +1,9 @@
+# Defaults mirrored from config.py (config.py is authoritative).
+input:
+  xtekct: null
+  angle_file: null
+  projection_dir: null
+  id_regex: '(\d+)(?=\.[A-Za-z0-9]+$)'
+  id_offset: 0
+memory:
+  limit_gib: 4.0
